@@ -8,7 +8,7 @@
 | Nome completo | GitHub | Turma |
 |--------------|--------|-------|
 | Lara Moura Arruda | @laramour | 3B |
-| Victória Dhafne | @dhafnevic | 3N |
+| Victória Dhafne | @dhafnevic | 3B |
 
 **Tema:** Expansão urbana e fragmentação do cerrado
 **Tecnologia:** Python + Flask + SQLite
