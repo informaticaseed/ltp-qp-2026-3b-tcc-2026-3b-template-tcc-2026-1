@@ -1,4 +1,4 @@
-# TCC 2026 — [Nome do Grupo]
+# TCC 2026 — Expansão urbana e fragmentação do cerrado
 **LTP3 + QP3 · CEMIC 2026 · Prof. Rafael Martins Alves**
 
 --- 
@@ -7,18 +7,17 @@
 
 | Nome completo | GitHub | Turma |
 |--------------|--------|-------|
-| (nome 1) | @username | 3A |
-| (nome 2) | @username | 3A |
-| (nome 3) | @username | 3A |
+| Lara Moura Arruda | @laramour | 3B |
+| Victória Dhafne | @dhafnevic | 3N |
 
-**Tema:** (escreva aqui em 1 frase)
+**Tema:** Expansão urbana e fragmentação do cerrado
 **Tecnologia:** Python + Flask + SQLite
 
 ---
 
 ## 🎯 O que o sistema faz
 
-(Descreva em 2-3 frases o problema que o sistema resolve e para quem)
+Site informativo sobre os impactos da expansão urbana e da fragmentação do cerrado nos animais endêmicos do bioma.Além de um canal de denúncias para a população em geral.
 
 ---
 
