@@ -14,6 +14,7 @@
 **Tema:** Sistema cemic facilitador de comunicação entre coordenação e pais ou responsáveis
 **Tecnologia:** Python + Flask + SQLite
 
+
 ---
 
 ## 🎯 O que o sistema faz
