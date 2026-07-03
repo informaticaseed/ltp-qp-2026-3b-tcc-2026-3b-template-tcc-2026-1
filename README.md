@@ -17,7 +17,7 @@
 
 ## 🎯 O que o sistema faz
 
-Site informativo e interativo sobre os impactos da expansão urbana e da fragmentação do cerrado nos animais silvestres, além de um canal de denúncias para a população em geral.
+Plataforma digital que reúne conteúdo informativo sobre os efeitos do avanço urbano e da fragmentação do cerrado sobre a fauna nativa, oferecendo um canal de denúncas.
 
 ---
 
