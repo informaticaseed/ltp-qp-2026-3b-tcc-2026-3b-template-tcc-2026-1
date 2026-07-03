@@ -17,7 +17,7 @@
 
 ## 🎯 O que o sistema faz
 
-Site informativo sobre os impactos da expansão urbana e da fragmentação do cerrado nos animais endêmicos do bioma. Além de um canal de denúncias para a população em geral.
+Site informativo e interativo sobre os impactos da expansão urbana e da fragmentação do cerrado nos animais endêmicos do bioma. Além de um canal de denúncias para a população em geral.
 
 ---
 
@@ -62,3 +62,6 @@ pytest tests/ -v
 
 ## Recuperação
 Este projeto foi atualizado durante a recuperação do segundo bimestre.
+
+### Observação
+Este documento recebeu melhorias na documentação do projeto.
