@@ -8,7 +8,7 @@
 | Nome completo | GitHub | Turma |
 |--------------|--------|-------|
 | Lara Moura Arruda | @laramour | 3B |
-| Victória Dhafne | @dhafnevic | 3B |
+| Victória Dhafne Alves de Almeida | @dhafnevic | 3B |
 
 **Tema:** Expansão urbana e fragmentação do cerrado
 **Tecnologia:** Python + Flask + SQLite
@@ -17,7 +17,7 @@
 
 ## 🎯 O que o sistema faz
 
-Site informativo sobre os impactos da expansão urbana e da fragmentação do cerrado nos animais endêmicos do bioma.Além de um canal de denúncias para a população em geral.
+Site informativo sobre os impactos da expansão urbana e da fragmentação do cerrado nos animais endêmicos do bioma. Além de um canal de denúncias para a população em geral.
 
 ---
 
@@ -59,3 +59,6 @@ python src/app.py
 # Rodar os testes
 pytest tests/ -v
 ```
+
+## Recuperação
+Este projeto foi atualizado durante a recuperação do segundo bimestre.
