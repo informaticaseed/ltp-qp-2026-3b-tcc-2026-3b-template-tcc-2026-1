@@ -1,7 +1,6 @@
 # Acompanhamento Quinzenal — Prof. Rafael
-**Grupo:** [Nome do Grupo]
-**Turma:** 3A / 3B / 3C
-**Repositório:** [link]
+**Grupo:** Expansão Urbana
+**Turma:** 3B
 
 ---
 
@@ -11,9 +10,9 @@
 
 | Integrante | O que se comprometeu a fazer |
 |-----------|------------------------------|
-| (nome 1) | |
-| (nome 2) | |
-| (nome 3) | |
+| Victoria | - Entender como foi gerado o site no wix (se tem banco de dados e backend) onde estão os registros salvos ; - Desenvolver bot para filtrar - Ver questão de domínio|
+| Lara | - Parte escrita: resumo, abstract, introdução, bibliografia|
+
 
 ### Verificação em 08/08
 
