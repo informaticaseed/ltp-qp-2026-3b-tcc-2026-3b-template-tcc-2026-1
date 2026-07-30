@@ -1,7 +1,6 @@
 # Acompanhamento Quinzenal — Prof. Rafael
 **Grupo:** [Nome do Grupo]
-**Turma:** 3A / 3B / 3C
-**Repositório:** [link]
+**Turma:** 3B 
 
 ---
 
@@ -11,9 +10,17 @@
 
 | Integrante | O que se comprometeu a fazer |
 |-----------|------------------------------|
-| (nome 1) | |
-| (nome 2) | |
-| (nome 3) | |
+| Cauã | Protótipo IA |
+| José | - Banco de dados - Iniciar o backend|
+| Emily | - Montagem do protótipo |
+
+Backlog:
+- Banco de dados
+- Integração do banco de dados o front
+- back-end
+- Protótipo IA
+- Montagem do protótipo
+- Relatório: requisitos e casos de usos, imagens do protótipo, cronograma, 
 
 ### Verificação em 08/08
 
