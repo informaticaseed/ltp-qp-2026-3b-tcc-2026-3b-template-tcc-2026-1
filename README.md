@@ -1,6 +1,6 @@
 # TCC 2026 — Expansão urbana e fragmentação do cerrado
 **LTP3 + QP3 · CEMIC 2026 · Prof. Rafael Martins Alves**
-
+ 
 ---    
 
 ## 👥 Integrantes
