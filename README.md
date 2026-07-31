@@ -10,8 +10,8 @@ LTP3 + QP3 · CEMIC 2026 · Prof. Rafael Martins Alves
 
 | Nome completo | GitHub | Turma |
 | --- | --- | --- |
-| Rafael Martins Alves | @rafaelalvesmartins | 3B |
-| Rodrigo Martins Alves | @rodrigoalves | 3B |
+| emily kerolaynne | @rafaelalvesmartins | 3B |
+| Cauã Vinicius  | @cauavinicius | 3B |
 | Jose Lopes | @joselopes | 3B |
 
 Tema: Sistema web para monitorização em tempo real e gestão de capacidade de lixeiras inteligentes.
@@ -20,10 +20,7 @@ Tecnologia: Python + Flask + SQLite
 ---
 
 ## 🎯 O que o sistema faz
-
-O sistema resolve o problema da acumulação excessiva de resíduos através da monitorização em tempo real da capacidade de lixeiras inteligentes. O programa processa os dados de sensores de nível, guarda o histórico no banco de dados e apresenta um painel web intuitivo. Isto permite que os utilizadores saibam o momento exato para realizar a recolha, otimizando o tempo e evitando o transbordo de lixo.
-
----
+O sistema da EcoSmart utiliza Inteligência Artificial e sensores para identificar, confirmar e separar automaticamente os resíduos no compartimento correto, tornando a coleta seletiva mais precisa, eficiente e sustentável.
 
 ## 🔄 Como o grupo trabalha toda semana
 
