@@ -1,40 +1,39 @@
-# TCC 2026 — [Nome do Grupo]
-**LTP3 + QP3 · CEMIC 2026 · Prof. Rafael Martins Alves**
+Aqui está o conteúdo preenchido, mantendo exatamente a mesma estrutura e formatação que enviou:
+
+# TCC 2026 — Lixeira Inteligente
+
+LTP3 + QP3 · CEMIC 2026 · Prof. Rafael Martins Alves
 
 ---
 
 ## 👥 Integrantes
 
 | Nome completo | GitHub | Turma |
-|--------------|--------|-------|
-| (nome 1) | @username | 3A |
-| (nome 2) | @username | 3A |
-| (nome 3) | @username | 3A |
+| --- | --- | --- |
+| emily kerolaynne | @rafaelalvesmartins | 3B |
+| Cauã Vinicius  | @cauavinicius | 3B |
+| Jose Lopes | @joselopes | 3B |
 
-**Tema:** (escreva aqui em 1 frase)
-**Tecnologia:** Python + Flask + SQLite
+Tema: Sistema web para monitorização em tempo real e gestão de capacidade de lixeiras inteligentes.
+Tecnologia: Python + Flask + SQLite
 
 ---
 
 ## 🎯 O que o sistema faz
-
-(Descreva em 2-3 frases o problema que o sistema resolve e para quem)
-
----
+O sistema da EcoSmart utiliza Inteligência Artificial e sensores para identificar, confirmar e separar automaticamente os resíduos no compartimento correto, tornando a coleta seletiva mais precisa, eficiente e sustentável.
 
 ## 🔄 Como o grupo trabalha toda semana
 
-1. **Segunda** — cada integrante abre Issues da semana (use o template "Tarefa Semanal")
-2. **Durante a semana** — trabalham e fazem commits
-3. **Sexta** — o grupo abre 1 Pull Request linkando as Issues concluídas
-4. **Push** — métricas de participação aparecem automaticamente no Actions
+1. Segunda — cada integrante abre Issues da semana (use o template "Tarefa Semanal")
+2. Durante a semana — trabalham e fazem commits
+3. Sexta — o grupo abre 1 Pull Request linkando as Issues concluídas
+4. Push — métricas de participação aparecem automaticamente no Actions
 
 ---
 
 ## 📁 Estrutura do projeto
 
-```
-├── README.md           ← este arquivo
+├── README.md        ← este arquivo
 ├── BACKLOG.md          ← resumo fixo do MVP e links
 ├── docs/
 │   ├── arquitetura.md  ← diagrama de arquitetura
@@ -43,20 +42,22 @@
 ├── evidencias/         ← screenshots das demos
 ├── src/                ← código do sistema
 └── tests/              ← testes automáticos
-```
 
 ---
 
 ## ⚡ Comandos rápidos
 
-```bash
+bash
+
 # Clonar o repositório
-git clone <URL>
+
+git clone 
 
 # Rodar o projeto
+
 pip install -r requirements.txt
 python src/app.py
 
 # Rodar os testes
+
 pytest tests/ -v
-```
