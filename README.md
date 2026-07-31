@@ -10,7 +10,7 @@
 | Lara Moura Arruda | @laramour | 3B |
 | Victória Dhafne Alves de Almeida | @dhafnevic | 3B |
 
-**Tema:** Expansão urbana e fragmentação do cerrado
+**Tema:** Expansão urbana e fragmentação do cerrado: impactos na fauna silvestre
 **Tecnologia:** Python + Flask + SQLite
 
 ---
