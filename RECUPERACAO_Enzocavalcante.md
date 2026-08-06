@@ -23,7 +23,8 @@
 
 > Use "Closes #N" para cada Issue que este PR resolve.
 
-Closes #4
+Closes #7
+
 ---
 
 ## Como testar
@@ -31,7 +32,7 @@ Closes #4
 > Passo a passo para o professor ver o que foi feito.
 
 1. criar issue
-2. criar um branch e depois alterar o que precisa ser feito
+2. Alterar os arquivos do backlog e dar 2 commits
 3.criar PR e mergear
 
 ---
@@ -57,11 +58,11 @@ Closes #4
 ## Checklist de entrega
 
 - [x] Issues estão linkadas com "Closes #N"
-- [ ] Código roda sem erro
-- [ ] Pelo menos 1 commit por integrante ativo
-- [ ] README atualizado se necessário
-- [ ] Testes passando (Actions verde)
-- [ ] Demo preparada para mostrar em aula
+- [x] Código roda sem erro
+- [x] Pelo menos 1 commit por integrante ativo
+- [x] README atualizado se necessário
+- [x] Testes passando (Actions verde)
+- [x] Demo preparada para mostrar em aula
 
 ---
 
@@ -69,4 +70,4 @@ Closes #4
 
 > O que ficou para a próxima semana? Por quê?
 
-(escreva aqui — se não houver, escreva "Nenhum")
+nada
