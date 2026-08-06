@@ -1,7 +1,7 @@
 # Acompanhamento Quinzenal — Prof. Rafael
-**Grupo:** [Nome do Grupo]
-**Turma:** 3A / 3B / 3C
-**Repositório:** [link]
+**Grupo:** Chatbot
+**Turma:** 3B
+
 
 ---
 
@@ -11,9 +11,15 @@
 
 | Integrante | O que se comprometeu a fazer |
 |-----------|------------------------------|
-| (nome 1) | |
-| (nome 2) | |
-| (nome 3) | |
+| Enzo | - levantamento dos requisitos, diagrama de caso de uso |
+| Israel | - banco de dados: finalizar o  banco de dados |
+| Lucas da Maia | - Frontend: detalhes do frontend - Backend: interligar com uma LLM |
+
+Backlog:
+- banco de dados: finalizar o  banco de dados
+- Frontend: detalhes do frontend
+- Backend: interligar com uma LLM
+- Relatório: iniciar o relatório, levantamento dos requisitos, diagrama de caso de uso e passar para o formato padrão de TCC da escola 
 
 ### Verificação em 08/08
 
