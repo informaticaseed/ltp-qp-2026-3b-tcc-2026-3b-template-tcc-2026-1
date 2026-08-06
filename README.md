@@ -1,4 +1,4 @@
-# TCC 2026 — [Nome do Grupo]
+# TCC 2026 — equipe 5 chatbot
 **LTP3 + QP3 · CEMIC 2026 · Prof. Rafael Martins Alves**
 
 ---
@@ -7,51 +7,50 @@
 
 | Nome completo | GitHub | Turma |
 |--------------|--------|-------|
-| (nome 1) | @username | 3A |
-| (nome 2) | @username | 3A |
-| (nome 3) | @username | 3A |
+| Lucas da maia | @Zluc7  | 3B |
+| Israel cabral | israelcabral3312008 | 3B |
+| Enzo cavalcante | Enzincavalcante | 3B |
 
-**Tema:** (escreva aqui em 1 frase)
+**Tema:** Sistema cemic facilitador de comunicação entre coordenação e pais ou responsáveis
 **Tecnologia:** Python + Flask + SQLite
 
 ---
 
 ## 🎯 O que o sistema faz
 
-(Descreva em 2-3 frases o problema que o sistema resolve e para quem)
+O Sistema comunicador cemic (centro de ensino integral do cruzeiro) foi desenvolvido para facilitar a comunicação entre a coordenação escolar e os pais ou responsáveis, centralizando avisos, comunicados e informações importantes em um único ambiente digital. O objetivo é reduzir falhas de comunicação, agilizar o envio de informações e tornar o acompanhamento da vida escolar mais eficiente para todos os envolvidos.
 
 ---
 
 ## 🔄 Como o grupo trabalha toda semana
 
-1. **Segunda** — cada integrante abre Issues da semana (use o template "Tarefa Semanal")
-2. **Durante a semana** — trabalham e fazem commits
-3. **Sexta** — o grupo abre 1 Pull Request linkando as Issues concluídas
-4. **Push** — métricas de participação aparecem automaticamente no Actions
+Segunda — Cada integrante abre as Issues da semana no GitHub usando o template "Tarefa Semanal".
+Durante a semana — Desenvolvemos as funcionalidades do chatbot, realizamos testes locais e fazemos os commits.
+Sexta — O grupo abre 1 Pull Request único linkando todas as Issues concluídas na semana para revisão e merge.
+Push/Merge — As métricas de participação e a validação do código rodam automaticamente via GitHub Actions.
 
 ---
 
 ## 📁 Estrutura do projeto
 
+├── README.md           ← Visão geral e documentação principal do sistema
+├── BACKLOG.md          ← Backlog do MVP, sprints e planejamento das funcionalidades
+├── arquitetura.md      ← Modelagem do chatbot (fluxo de diálogo e integradores)
+├── decisoes/           ← Registros de Decisão Técnica (ADRs do Flask e SQLite)
+├── diagramas/          ← Diagramas de Casos de Uso, DER e fluxogramas escolares
+├── evidencias/         ← Screenshots das telas e logs de conversas de teste
+├── src/                ← Código-fonte do sistema (servidor Flask, rotas e banco)
+└── tests/              ← Testes automáticos das rotas e respostas do chatbot
 ```
-├── README.md           ← este arquivo
-├── BACKLOG.md          ← resumo fixo do MVP e links
-├── docs/
-│   ├── arquitetura.md  ← diagrama de arquitetura
-│   └── decisoes/       ← registros de decisão técnica (ADR)
-├── diagramas/          ← imagens e diagramas
-├── evidencias/         ← screenshots das demos
-├── src/                ← código do sistema
-└── tests/              ← testes automáticos
-```
-
+  
 ---
 
 ## ⚡ Comandos rápidos
 
 ```bash
 # Clonar o repositório
-git clone <URL>
+git clone <URL> https://github.com/informaticaseed/tcc-2026-3b-equipe-5-chatbot.git
+cd tcc-2026-3b-equipe-5-chatbot
 
 # Rodar o projeto
 pip install -r requirements.txt
