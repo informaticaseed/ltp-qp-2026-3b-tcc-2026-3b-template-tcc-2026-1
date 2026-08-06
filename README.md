@@ -42,7 +42,7 @@ Push/Merge — As métricas de participação e a validação do código rodam a
 ├── src/                ← Código-fonte do sistema (servidor Flask, rotas e banco)
 └── tests/              ← Testes automáticos das rotas e respostas do chatbot
 ```
-
+  
 ---
 
 ## ⚡ Comandos rápidos
