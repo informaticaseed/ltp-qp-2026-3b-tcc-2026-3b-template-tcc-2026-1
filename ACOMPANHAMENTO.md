@@ -2,7 +2,7 @@
 **Grupo:** [Nome do Grupo]
 **Turma:** 3B 
 
----
+--- 
 
 ## Quinzena 1 — 27/07 a 08/08
 
