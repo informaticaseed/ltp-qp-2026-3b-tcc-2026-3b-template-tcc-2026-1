@@ -45,7 +45,7 @@ Push/Merge — As métricas de participação e a validação do código rodam a
   
 ---
 
-## ⚡ Comandos rápidos
+## ⚡ Comandos rápidos com
 
 ```bash
 # Clonar o repositório
@@ -59,3 +59,4 @@ python src/app.py
 # Rodar os testes
 pytest tests/ -v
 ```
+commit
