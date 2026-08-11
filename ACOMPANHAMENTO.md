@@ -33,9 +33,8 @@
 
 | Integrante | O que se comprometeu a fazer |
 |-----------|------------------------------|
-| (nome 1) | |
-| (nome 2) | |
-| (nome 3) | |
+| Victoria | - Ajustes técnicos no site; - Clonar no github o código do projeto do lovable; - Fazer deploy do site (render ou vercel)|
+| Lara | - Diagrama DFD; - Levamento dos requisitos - Diagrama de caso de uso; - Diagrama entidade de relacionamento do banco de dado (draw io)|
 
 ### Verificação em 22/08
 
