@@ -19,7 +19,6 @@ Backlog:
 - Integração do banco de dados o front
 - back-end
 - Protótipo IA
-- Montagem do protótipo
 - Relatório: requisitos e casos de usos, imagens do protótipo, cronograma, 
 
 ### Verificação em 08/08
@@ -37,13 +36,13 @@ Backlog:
 
 ## Quinzena 2 — 10/08 a 22/08
 
-### Compromissos assumidos em 10/08
+### Compromissos assumidos em 13/08
 
 | Integrante | O que se comprometeu a fazer |
 |-----------|------------------------------|
-| (nome 1) | |
-| (nome 2) | |
-| (nome 3) | |
+| Cauã | Montar e integrar o protótipo com a IA;  |
+| José | Funcionalidade de estoque e compra funcionando no banco, back e front|
+| Emily | - Testes no arduíno  |
 
 ### Verificação em 22/08
 
