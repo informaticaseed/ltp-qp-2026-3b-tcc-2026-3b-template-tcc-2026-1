@@ -1,6 +1,6 @@
 # Backlog do MVP — TCC Lixeira Inteligente
 
---- 
+---  
 
 ## 🎯 Objetivo do MVP
 
