@@ -42,7 +42,7 @@ Backlog:
 |-----------|------------------------------|
 | Cauã | Montar e integrar o protótipo com a IA;  |
 | José | Funcionalidade de estoque e compra funcionando no banco, back e front|
-| Emily | - Testes no arduíno  |
+| Emily | - Testes no arduíno - Relatório que a Thélia pedir |
 
 ### Verificação em 22/08
 
