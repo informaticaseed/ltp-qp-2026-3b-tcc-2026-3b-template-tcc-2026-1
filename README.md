@@ -28,6 +28,7 @@ Segunda — Cada integrante abre as Issues da semana no GitHub usando o template
 Durante a semana — Desenvolvemos as funcionalidades do chatbot, realizamos testes locais e fazemos os commits.
 Sexta — O grupo abre 1 Pull Request único linkando todas as Issues concluídas na semana para revisão e merge.
 Push/Merge — As métricas de participação e a validação do código rodam automaticamente via GitHub Actions.
+commits.
 
 ---
 
