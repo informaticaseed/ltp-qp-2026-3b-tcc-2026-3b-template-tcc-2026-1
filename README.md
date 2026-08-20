@@ -66,3 +66,4 @@ banco de dados esta funcionando
 
 José e equipe tivemos uma evolução com banco de dados agora ele esta funcionando.
 Emily e equipe estamos quase finalizando o relatório  
+emily e equipe estamos fazendo o cronograma 
