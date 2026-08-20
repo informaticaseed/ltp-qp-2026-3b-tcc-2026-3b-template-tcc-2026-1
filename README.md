@@ -17,7 +17,7 @@
 
 ## 🎯 O que o sistema faz
 
-Site informativo e interativo sobre os impactos da expansão urbana e da fragmentação do cerrado nos animais do bioma. Além de um canal de denúncias para a população em geral.
+Site informativo e interativo sobre os impactos da expansão urbana e da fragmentação do cerrado nos animais do bioma, além de um canal de denúncias para a população em geral.
 
 ---
 
