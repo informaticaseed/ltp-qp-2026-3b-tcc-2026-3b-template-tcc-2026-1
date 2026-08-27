@@ -1,0 +1,5 @@
+##Questão 01. Uma issue é o registro de uma tarefa ou problema. Pode ajudar a organizar o planejamento do projeto e acompanha o desenvolvimento do projeto, assim facilitando o trabalho em equipe.
+##Questão 02. Um pull request é um pedido para juntar as alterações feitas em uma branch ao projeto principal. Ele permite que outras pessoas revisem o código antes de aprovação. Isso ajuda a evitar erros e melhora a qualidade do software.
+##Questão 03. A separação de camadas é uma forma de organizar o código, divindo cada parte por sua função. A pasta app.py inicia a aplicação, enquanto o repositório.py cuida do acesso de dados. Essa organzação facilita a manutenção, os testes e o desenvolvimento do projeto.
+##Questão 04. Não realizei as atividades esse bimestre pois faltei muitas aulas, mas nas que compareci, fiz o que foi pedido pelo professor.
+##Questão 05. No próximo bimestre será realizado a finalização do site do tcc, junto com as pesquisas teóricas e em campo e a revisão do que já foi feito.
