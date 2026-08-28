@@ -14,10 +14,7 @@ O MVP entregará um sistema web funcional para monitorização em tempo real da 
 |---|---------------|-----------|--------|
 | 1 | Criar a estrutura do banco de dados (SQLite) para armazenar os níveis e dados das lixeiras | Alta | Feito |
 | 2 | Desenvolver uma API (Python/Flask) para receber os dados dos sensores de nível | Alta | Feito |
-| 3 | Desenvolver o painel web (Dashboard) para visualização do status das lixeiras em tempo real | Alta | ⏳ A fazer |
-| 4 | Implementar a lógica de mudança de status (0-40% Vazia, 41-80% Normal, 81-100% Cheia) | Média | ⏳ A fazer |
-| 5 | Criar um sistema de alerta visual na interface quando a lixeira atingir capacidade máxima | Média | ⏳ A fazer |
-| 6 | Adicionar tela de histórico para listar o volume acumulado e as últimas coletas | Baixa | ⏳ A fazer |
+
 
 ---
 
