@@ -31,7 +31,8 @@ Push/Merge — As métricas de participação e a validação do código rodam a
 commits.
 
 recuperacao: implementa bate papo no site
-
+recuperacao: atualizou a qualificaçao
+recuperacao: cria tabela de usuários no repositorio.py
 ---
 
 ## 📁 Estrutura do projeto
