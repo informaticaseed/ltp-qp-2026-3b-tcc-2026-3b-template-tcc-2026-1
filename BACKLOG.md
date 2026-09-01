@@ -29,6 +29,7 @@ Integração com sistemas de matrícula de terceiros
 Aplicativo mobile nativo (fica como evolução futura)
 Autenticação multifator para responsáveis
 
+recuperacao: criou issue de atualizaçao do tcc
 
 
 🔗 Links úteis
