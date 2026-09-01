@@ -30,6 +30,8 @@ Sexta — O grupo abre 1 Pull Request único linkando todas as Issues concluída
 Push/Merge — As métricas de participação e a validação do código rodam automaticamente via GitHub Actions.
 commits.
 
+adicionou o bate papo no site
+
 ---
 
 ## 📁 Estrutura do projeto
