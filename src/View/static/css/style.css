@@ -412,14 +412,39 @@ body {
 }
 
 .danger-label {
-    display: block;
     color: #9aa9af;
-
     font-size: 13px;
 }
 
 .risk-summary {
     flex: 1;
+}
+
+.risk-heading {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 9px;
+}
+
+.risk-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    padding: 5px 10px;
+    border: 1px solid transparent;
+    border-radius: 999px;
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 1;
+    white-space: nowrap;
+}
+
+.risk-badge-dot {
+    width: 7px;
+    height: 7px;
+    border-radius: 50%;
+    background: currentColor;
 }
 
 .risk-meter {
@@ -456,6 +481,12 @@ body {
     background-color: #00d9a6;
 }
 
+.risk-low .risk-badge {
+    border-color: rgba(0, 217, 166, 0.25);
+    background: rgba(0, 217, 166, 0.1);
+    color: #00d9a6;
+}
+
 .risk-low .danger-value {
     color: #00d9a6;
 }
@@ -464,12 +495,24 @@ body {
     background-color: #e6c66f;
 }
 
+.risk-suspicious .risk-badge {
+    border-color: rgba(230, 198, 111, 0.28);
+    background: rgba(230, 198, 111, 0.1);
+    color: #e6c66f;
+}
+
 .risk-suspicious .danger-value {
     color: #e6c66f;
 }
 
 .risk-danger .risk-meter-fill {
     background-color: #ff7184;
+}
+
+.risk-danger .risk-badge {
+    border-color: rgba(255, 113, 132, 0.28);
+    background: rgba(255, 113, 132, 0.1);
+    color: #ff7184;
 }
 
 .risk-danger .danger-value {
