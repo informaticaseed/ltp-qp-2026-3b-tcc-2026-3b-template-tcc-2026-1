@@ -15,13 +15,17 @@
 
     <main class="container">
 
-        <div class="theme-picker">
-            <label for="theme-select">Tema</label>
-            <select id="theme-select" aria-label="Escolher tema">
-                <option value="original">Original</option>
-                <option value="beige">Bege escuro</option>
-            </select>
-        </div>
+        <fieldset class="theme-picker" aria-label="Escolher tema">
+            <legend class="sr-only">Tema</legend>
+            <label class="theme-choice" title="Tema original">
+                <input type="radio" name="theme" value="original" aria-label="Tema original">
+                <span class="theme-ball theme-ball-original" aria-hidden="true"></span>
+            </label>
+            <label class="theme-choice" title="Tema bege escuro">
+                <input type="radio" name="theme" value="beige" aria-label="Tema bege escuro">
+                <span class="theme-ball theme-ball-beige" aria-hidden="true"></span>
+            </label>
+        </fieldset>
 
         <!-- HEADER -->
         <header class="header">

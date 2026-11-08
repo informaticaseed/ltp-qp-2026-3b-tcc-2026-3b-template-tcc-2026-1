@@ -6,9 +6,9 @@
         const selectedTheme = validThemes.includes(theme) ? theme : "original";
         document.documentElement.dataset.theme = selectedTheme;
 
-        const selector = document.getElementById("theme-select");
-        if (selector) {
-            selector.value = selectedTheme;
+        const selectedControl = document.querySelector(`input[name="theme"][value="${selectedTheme}"]`);
+        if (selectedControl) {
+            selectedControl.checked = true;
         }
         return selectedTheme;
     }
@@ -17,13 +17,13 @@
     applyTheme(savedTheme);
 
     document.addEventListener("DOMContentLoaded", function () {
-        const selector = document.getElementById("theme-select");
-        if (!selector) return;
-
         applyTheme(savedTheme);
-        selector.addEventListener("change", function () {
-            const selectedTheme = applyTheme(selector.value);
-            localStorage.setItem(storageKey, selectedTheme);
+        document.querySelectorAll('input[name="theme"]').forEach(function (control) {
+            control.addEventListener("change", function () {
+                if (!control.checked) return;
+                const selectedTheme = applyTheme(control.value);
+                localStorage.setItem(storageKey, selectedTheme);
+            });
         });
     });
 })();
