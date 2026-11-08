@@ -354,13 +354,7 @@ function mostrarResultado(dados) {
         <div class="danger-box ${riskClass}">
 
             <div class="risk-summary">
-                <div class="risk-heading">
-                    <span class="danger-label">Risco estimado</span>
-                    <span class="risk-badge" role="status">
-                        <span class="risk-badge-dot" aria-hidden="true"></span>
-                        ${riskLevel}
-                    </span>
-                </div>
+                <span class="danger-label">Risco estimado · ${riskLevel}</span>
                 <div
                     class="risk-meter"
                     role="progressbar"
